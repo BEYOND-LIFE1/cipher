@@ -265,3 +265,5 @@ def decrypt_story():
     z = CiphertextMessage(get_story_string())
     return z.decrypt_message()
 print(decrypt_story())
+
+#test
